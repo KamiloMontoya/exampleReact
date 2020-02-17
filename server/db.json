@@ -11,7 +11,7 @@
     },
     {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
-      "firstName": "Major",
+      "firstName": "Major Edit",
       "lastName": "Rodriguez",
       "email": "Ilene66@hotmail.com",
       "jobTitle": "Human Research Architect",
@@ -440,6 +440,15 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Camilo",
+      "lastName": "Montoya",
+      "email": "kamilo2428@gmail.com",
+      "jobTitle": "Desarrollador ",
+      "tiwtter": "kamiloMontoya",
+      "id": "Sq3hSgP",
+      "twitter": "KamiloMontoya"
     }
   ]
 }
